@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+/LqNjs6QutSpvuGn2N7jEGtgLjWj1iNheSbKYS/3ebWg46SP9S36p7gRHjnQ9NrmJM1YdjXwoMHxqBOmapPlA==",
+  "dgSpecHash": "jSPKgLLFOFiOXjMF/cGNnIun36F8RS+sn319/g1Rafst+pkCdn19Wu95cFHsQdqn9EGu1JrBOXojwixyS/vELw==",
   "success": true,
   "projectFilePath": "C:\\Danila\\RiderProjects\\SupportApp\\SupportApp\\SupportApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\support\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }
