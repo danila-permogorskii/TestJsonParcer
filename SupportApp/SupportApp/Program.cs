@@ -1,12 +1,19 @@
 ﻿using System;
+using System.Net.Http;
+using System.Text;
+using System.Text.Json.Serialization;
+using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace SupportApp
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            await Espp.LogIn();
+            Espp.LogOut();
         }
     }
+
 }

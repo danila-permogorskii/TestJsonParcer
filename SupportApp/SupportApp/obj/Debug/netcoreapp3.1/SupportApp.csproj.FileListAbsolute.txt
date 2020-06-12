@@ -11,3 +11,5 @@ C:\Danila\RiderProjects\SupportApp\SupportApp\bin\Debug\netcoreapp3.1\SupportApp
 C:\Danila\RiderProjects\SupportApp\SupportApp\obj\Debug\netcoreapp3.1\SupportApp.dll
 C:\Danila\RiderProjects\SupportApp\SupportApp\obj\Debug\netcoreapp3.1\SupportApp.pdb
 C:\Danila\RiderProjects\SupportApp\SupportApp\obj\Debug\netcoreapp3.1\SupportApp.genruntimeconfig.cache
+C:\Danila\RiderProjects\SupportApp\SupportApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Danila\RiderProjects\SupportApp\SupportApp\obj\Debug\netcoreapp3.1\SupportApp.csproj.CopyComplete
