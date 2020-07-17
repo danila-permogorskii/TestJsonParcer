@@ -1,0 +1,15 @@
+C:\Danila\RiderProjects\SandBox\SandBox\bin\Debug\netcoreapp3.1\SandBox.exe
+C:\Danila\RiderProjects\SandBox\SandBox\bin\Debug\netcoreapp3.1\SandBox.deps.json
+C:\Danila\RiderProjects\SandBox\SandBox\bin\Debug\netcoreapp3.1\SandBox.runtimeconfig.json
+C:\Danila\RiderProjects\SandBox\SandBox\bin\Debug\netcoreapp3.1\SandBox.runtimeconfig.dev.json
+C:\Danila\RiderProjects\SandBox\SandBox\bin\Debug\netcoreapp3.1\SandBox.dll
+C:\Danila\RiderProjects\SandBox\SandBox\bin\Debug\netcoreapp3.1\SandBox.pdb
+C:\Danila\RiderProjects\SandBox\SandBox\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Danila\RiderProjects\SandBox\SandBox\obj\Debug\netcoreapp3.1\SandBox.csprojAssemblyReference.cache
+C:\Danila\RiderProjects\SandBox\SandBox\obj\Debug\netcoreapp3.1\SandBox.AssemblyInfoInputs.cache
+C:\Danila\RiderProjects\SandBox\SandBox\obj\Debug\netcoreapp3.1\SandBox.AssemblyInfo.cs
+C:\Danila\RiderProjects\SandBox\SandBox\obj\Debug\netcoreapp3.1\SandBox.csproj.CoreCompileInputs.cache
+C:\Danila\RiderProjects\SandBox\SandBox\obj\Debug\netcoreapp3.1\SandBox.csproj.CopyComplete
+C:\Danila\RiderProjects\SandBox\SandBox\obj\Debug\netcoreapp3.1\SandBox.dll
+C:\Danila\RiderProjects\SandBox\SandBox\obj\Debug\netcoreapp3.1\SandBox.pdb
+C:\Danila\RiderProjects\SandBox\SandBox\obj\Debug\netcoreapp3.1\SandBox.genruntimeconfig.cache

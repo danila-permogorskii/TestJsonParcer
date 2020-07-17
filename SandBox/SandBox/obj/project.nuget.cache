@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LxjDQKSWn4/iHz8YA5wxyn7Pm3pKkbdtmPoNLlCqikVfiFlCGhzcHf47HYJrK4ULT3bThwiUQf/MB8+h4C/LYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Danila\\RiderProjects\\SandBox\\SandBox\\SandBox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\support\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
