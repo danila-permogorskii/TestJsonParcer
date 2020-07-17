@@ -1,0 +1,15 @@
+C:\Danila\RiderProjects\SupportApp\SupportApp\obj\Debug\netcoreapp3.1\SupportApp.csprojAssemblyReference.cache
+C:\Danila\RiderProjects\SupportApp\SupportApp\obj\Debug\netcoreapp3.1\SupportApp.AssemblyInfoInputs.cache
+C:\Danila\RiderProjects\SupportApp\SupportApp\obj\Debug\netcoreapp3.1\SupportApp.AssemblyInfo.cs
+C:\Danila\RiderProjects\SupportApp\SupportApp\obj\Debug\netcoreapp3.1\SupportApp.csproj.CoreCompileInputs.cache
+C:\Danila\RiderProjects\SupportApp\SupportApp\bin\Debug\netcoreapp3.1\SupportApp.exe
+C:\Danila\RiderProjects\SupportApp\SupportApp\bin\Debug\netcoreapp3.1\SupportApp.deps.json
+C:\Danila\RiderProjects\SupportApp\SupportApp\bin\Debug\netcoreapp3.1\SupportApp.runtimeconfig.json
+C:\Danila\RiderProjects\SupportApp\SupportApp\bin\Debug\netcoreapp3.1\SupportApp.runtimeconfig.dev.json
+C:\Danila\RiderProjects\SupportApp\SupportApp\bin\Debug\netcoreapp3.1\SupportApp.dll
+C:\Danila\RiderProjects\SupportApp\SupportApp\bin\Debug\netcoreapp3.1\SupportApp.pdb
+C:\Danila\RiderProjects\SupportApp\SupportApp\obj\Debug\netcoreapp3.1\SupportApp.dll
+C:\Danila\RiderProjects\SupportApp\SupportApp\obj\Debug\netcoreapp3.1\SupportApp.pdb
+C:\Danila\RiderProjects\SupportApp\SupportApp\obj\Debug\netcoreapp3.1\SupportApp.genruntimeconfig.cache
+C:\Danila\RiderProjects\SupportApp\SupportApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Danila\RiderProjects\SupportApp\SupportApp\obj\Debug\netcoreapp3.1\SupportApp.csproj.CopyComplete
