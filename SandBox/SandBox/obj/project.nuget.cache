@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LxjDQKSWn4/iHz8YA5wxyn7Pm3pKkbdtmPoNLlCqikVfiFlCGhzcHf47HYJrK4ULT3bThwiUQf/MB8+h4C/LYQ==",
+  "dgSpecHash": "0VzK6xrY/J3b1kIcD9XqYQpFDz0sRfqbi6jrG7HmSsVXuH0ovefakAL7T42jQmPyiSsJTAV3TbRwbPEiBqOIUg==",
   "success": true,
-  "projectFilePath": "C:\\Danila\\RiderProjects\\SandBox\\SandBox\\SandBox.csproj",
+  "projectFilePath": "C:\\Danila\\TestJsonParcer\\SandBox\\SandBox\\SandBox.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\support\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Danila\\RiderProjects\\SandBox\\SandBox\\SandBox.csproj",
+    "projectUniqueName": "C:\\Danila\\TestJsonParcer\\SandBox\\SandBox\\SandBox.csproj",
     "projectName": "SandBox",
-    "projectPath": "C:\\Danila\\RiderProjects\\SandBox\\SandBox\\SandBox.csproj",
-    "outputPath": "C:\\Danila\\RiderProjects\\SandBox\\SandBox\\obj\\",
+    "projectPath": "C:\\Danila\\TestJsonParcer\\SandBox\\SandBox\\SandBox.csproj",
+    "outputPath": "C:\\Danila\\TestJsonParcer\\SandBox\\SandBox\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"

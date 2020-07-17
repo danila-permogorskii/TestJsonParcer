@@ -15,6 +15,7 @@ namespace SandBox
         public string Timestamp { get; set; }
         [JsonProperty("Valute")]
         public Dictionary<string,Valute> Valutes  { get; set; }
+
     }
 
     class Valute
@@ -27,6 +28,7 @@ namespace SandBox
         public double Value { get; set; }   
         public double Previous { get; set; }
     }
+    
     
     class Program
     {
@@ -45,14 +47,15 @@ namespace SandBox
 
             foreach (var val in info.Valutes)
             {
-                Console.WriteLine(val.Key + ":");
-                Console.WriteLine(val.Value.Id);
-                Console.WriteLine(val.Value.Name);
-                Console.WriteLine(val.Value.Nominal);
-                Console.WriteLine(val.Value.Previous);
-                Console.WriteLine(val.Value.Value);
-                Console.WriteLine(val.Value.CharCode);
-                Console.WriteLine(val.Value.NumCode);
+                Console.WriteLine($"{val.Key} : \n" +
+                                  $"Id: {val.Value.Id}\n" +
+                                  $"Name: {val.Value.Name}\n" +
+                                  $"Nominal: {val.Value.Nominal}\n" +
+                                  $"Previous: {val.Value.Previous}\n" +
+                                  $"Value: {val.Value.Value}\n" +
+                                  $"CharCode:  {val.Value.CharCode}\n" +
+                                  $"NumCode: {val.Value.NumCode}\n");
+            
             }
         }
     }

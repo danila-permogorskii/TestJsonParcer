@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Danila\\RiderProjects\\SandBox\\SandBox\\SandBox.csproj": {}
+    "C:\\Danila\\TestJsonParcer\\SandBox\\SandBox\\SandBox.csproj": {}
   },
   "projects": {
-    "C:\\Danila\\RiderProjects\\SandBox\\SandBox\\SandBox.csproj": {
+    "C:\\Danila\\TestJsonParcer\\SandBox\\SandBox\\SandBox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Danila\\RiderProjects\\SandBox\\SandBox\\SandBox.csproj",
+        "projectUniqueName": "C:\\Danila\\TestJsonParcer\\SandBox\\SandBox\\SandBox.csproj",
         "projectName": "SandBox",
-        "projectPath": "C:\\Danila\\RiderProjects\\SandBox\\SandBox\\SandBox.csproj",
+        "projectPath": "C:\\Danila\\TestJsonParcer\\SandBox\\SandBox\\SandBox.csproj",
         "packagesPath": "C:\\Users\\support\\.nuget\\packages\\",
-        "outputPath": "C:\\Danila\\RiderProjects\\SandBox\\SandBox\\obj\\",
+        "outputPath": "C:\\Danila\\TestJsonParcer\\SandBox\\SandBox\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\support\\AppData\\Roaming\\NuGet\\NuGet.Config",
